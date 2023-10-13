@@ -1,8 +1,8 @@
 <img align="right" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="40%" />
 
-### My name is Pedro Tadeu 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
+### Meu nome é Pedro Tadeu 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
 
-<p><em> Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> Sou iniciante em programação Front End  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <p align="left">
@@ -10,17 +10,18 @@
    <a href="https://github.com/Pedtg"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/pedro-tadeu-87710363"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Um pouco sobre mim...  
 
-<p> Attending the 4nd period in Information Technology Management at Unip University - SP, the Dev Club offered an EaD course for training Full Stack Developers.
+<p> Atualmente estou cursando DevClub formação de programadores Full Stack .
   
-And other courses already held by institutions such as: Alura, Fundação Bradesco, Senai, Arduino Language C++ Course Flavio Guimarões, Video.com Course Gustavo Guanabara, TimTec.
-  
-I want to acquire knowledge in new teaching methodologies to improve and improve the ones I already have because I am passionate about technology. 
-  
-My biggest goal is to become a Full Stack Developer soon and be in continuous learning.</p>
+Sou formado em Gestão da Tecnologia da Informação e Engenheiro Elétrico/Eletrônico, tenho alguns cursos feitos pelo senai na área de eletrônica e alguns curso na área de tecnologia como na : Devclub formação Full Stack com Rodolfo Mori, Danki Code, Alura, Fundação Bradesco, Senai, Curso de Arduino com Flavio Guimarões, Curso em Video.com Gustavo Guanabara, TimTec.
 
-### 👨‍💻 Languages and Tools
+Quero adquirir conhecimentos em novas metodologias de ensino para melhorar e aprimorar as que já possuo por ser apaixonado por tecnologia e games.
+
+Meu maior objetivo é me tornar um Desenvolvedor Full Stack em breve e estar em contínuo aprendizado.
+</p>
+
+### 👨‍💻 Linguagens
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Pedtg)](https://github.com/Pedtg) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
