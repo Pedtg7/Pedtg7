@@ -35,12 +35,12 @@ Meu maior objetivo é me tornar um Desenvolvedor Full Stack em breve e estar em 
 <!--[Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102)--> 
 <!--[MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)-->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Pedtg&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedtg&layout=compact)](https://github.com/Pedtg/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=Pedtg7&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedtg7&layout=compact)](https://github.com/Pedtg7/github-readme-stats)
 
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Pedtg/count.svg" />
+  <img src="https://profile-counter.glitch.me/Pedtg7/count.svg" />
 </p>
 
 
